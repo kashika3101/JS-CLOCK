@@ -8,13 +8,15 @@ The application utilises a design consisting of a HTML and CSS created clock-fac
 The main feature of the application is to display the time with real-time feedback on a clock-face.
 
 # Technologies Used
-*HTML
+* HTML
 
 The project uses HTML to create the watch-face.
-*CSS
+
+* CSS
 
 The project uses CSS to style the watch-face.
-*JavaScript
+
+* JavaScript
 
 The project uses JavaScript to write the apps logic.
 
