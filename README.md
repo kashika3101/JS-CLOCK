@@ -20,5 +20,5 @@ The project uses CSS to style the watch-face.
 
 The project uses JavaScript to write the apps logic.
 
-# Deployment
-This project was deployed to GitHub Pages and can be viewed at:
+## Deployment
+This project was deployed to GitHub Pages and can be viewed at:(https://kashika3101.github.io/JS-CLOCK/)
